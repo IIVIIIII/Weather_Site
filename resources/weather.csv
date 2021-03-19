@@ -1,0 +1,589 @@
+City,Hemisphere,Latitude,Longitude,Temperature(F),Humidity(%),Cloudiness(%),Wind Speed(mph)
+Talnakh,northern,69.4865,88.3972,-11.09,88,100,2.53
+Tuktoyaktuk,northern,69.4541,-133.0374,-38.2,67,20,9.22
+Albany,northern,42.6001,-73.9662,26.38,87,100,3.06
+Tateyama,northern,34.9833,139.8667,37,40,50,3
+Nouadhibou,northern,20.931,-17.0347,66.2,77,0,17.27
+Punta Arenas,southern,-53.15,-70.9167,68,56,0,8.05
+Niquero,northern,20.0431,-77.5828,81.77,63,73,7.25
+Belmonte,southern,-15.8631,-38.8828,80.6,74,40,9.22
+Rikitea,southern,-23.1203,-134.9692,78.48,71,57,8.1
+Iberia,northern,29.9502,-91.7507,74.62,73,1,4.61
+Tual,southern,-5.6667,132.75,83.16,79,94,18.1
+Cham,northern,47.1821,8.4636,31.1,86,90,2.3
+Mutoko,southern,-17.397,32.2268,66.49,98,100,1.3
+Cape Town,southern,-33.9258,18.4232,69.98,83,0,24.16
+Sampit,southern,-2.5333,112.95,75.36,98,100,1.9
+Porosozero,northern,62.7191,32.727,-3.98,92,0,1.12
+Shache,northern,38.4167,77.2406,40.5,60,86,7.38
+Lagoa,northern,39.05,-27.9833,61.05,90,100,29.71
+Fortuna,northern,40.5982,-124.1573,50.18,93,20,3.91
+Cidreira,southern,-30.1811,-50.2056,76.62,77,0,17.34
+Mar del Plata,southern,-38.0023,-57.5575,67.71,68,75,16.11
+Nanortalik,northern,60.1432,-45.2371,29.59,87,81,13.38
+Muzhi,northern,65.3667,64.6667,-24.66,82,0,2.98
+Chokurdakh,northern,70.6333,147.9167,-12.6,88,38,3.44
+Portland,northern,45.5234,-122.6762,41.27,71,100,1.99
+Bethel,northern,41.3712,-73.414,27.34,93,90,4.61
+Ushuaia,southern,-54.8,-68.3,66.2,52,20,3.44
+Sūsangerd,northern,31.5608,48.1831,62.6,77,100,4.61
+Qaanaaq,northern,77.484,-69.3632,17.73,73,0,4.81
+Avarua,southern,-21.2078,-159.775,82.4,78,100,6.91
+Menongue,southern,-14.6585,17.691,68.23,86,100,1.1
+Puerto Ayora,southern,-0.7393,-90.3518,80.17,89,90,14.97
+Saint-Philippe,southern,-21.3585,55.7679,74.39,69,75,14.97
+Butaritari,northern,3.0707,172.7902,80.89,83,5,16.55
+Vaini,southern,-21.2,-175.2,80.6,83,90,23.02
+Arraial do Cabo,southern,-22.9661,-42.0278,75.2,83,75,5.75
+Codrington,southern,-38.2667,141.9667,54.48,92,0,8.25
+Gigmoto,northern,13.7796,124.39,72.52,91,100,16.08
+East London,southern,-33.0153,27.9116,72.86,74,0,4.43
+Progreso,northern,21.2833,-89.6667,87.8,48,75,16.11
+Sambava,southern,-14.2667,50.1667,77.52,86,100,3.51
+Carnarvon,southern,-24.8667,113.6333,73.4,100,40,18.41
+Hilo,northern,19.7297,-155.09,68.54,73,90,13.8
+São Félix do Xingu,southern,-6.6447,-51.995,80.6,82,99,1.72
+Oistins,northern,13.0667,-59.5333,80.6,61,75,17.27
+Yellowknife,northern,62.456,-114.3525,-12.19,70,90,18.41
+Souillac,southern,-20.5167,57.5167,78.8,78,20,4.61
+Imeni Poliny Osipenko,northern,52.4201,136.4853,-10.7,91,34,0.74
+Busselton,southern,-33.65,115.3333,54,97,88,9.57
+Marawi,northern,7.9986,124.2928,73.99,94,83,4
+Hermanus,southern,-34.4187,19.2345,69.01,82,0,1.01
+Port Elizabeth,southern,-33.918,25.5701,69.8,94,0,8.05
+Upernavik,northern,72.7868,-56.1549,10.96,76,20,2.77
+Alofi,southern,-19.0595,-169.9187,78.8,94,100,4.61
+San Matías,southern,-16.3667,-58.4,96.42,24,73,5.44
+Puerto Berrío,northern,6.4916,-74.4033,91.38,52,51,2.28
+Asău,northern,46.4333,26.4,33.93,93,0,2.3
+Kaitangata,southern,-46.2817,169.8464,55,93,100,3
+Klaksvík,northern,62.2266,-6.589,28.4,86,91,6.91
+Hobart,southern,-42.8794,147.3294,47.46,81,40,5.75
+Cherskiy,northern,68.75,161.3,-3.51,84,0,1.07
+Paamiut,northern,61.994,-49.6678,31.57,88,97,6.87
+Bondo,northern,3.8146,23.6866,72.81,22,94,1.79
+Tessalit,northern,20.1986,1.0114,71.82,17,0,10.2
+Hong Kong,northern,22.2855,114.1577,61.74,81,72,31.14
+Leningradskiy,northern,69.3833,178.4167,-26.1,83,9,10.78
+Tuatapere,southern,-46.1333,167.6833,51.78,89,100,5.73
+Kynashiv,northern,48.6705,28.9037,28.99,89,84,7.11
+Dikson,northern,73.5069,80.5464,-29.11,87,96,9.98
+Noumea,southern,-22.2763,166.4572,77.5,94,75,3.44
+Ubari,northern,26.5921,12.7805,60.12,30,0,6.4
+Chui,southern,-33.6971,-53.4616,73.76,71,0,10.31
+Lovozero,northern,68.005,35.0117,4.46,93,37,8.93
+Vostok,northern,46.4856,135.8833,-5.12,92,100,4.54
+Palana,northern,59.1167,159.9667,28.13,93,100,33.04
+Litovko,northern,49.2361,135.1742,-6.16,90,3,1.86
+Richards Bay,southern,-28.783,32.0377,75.65,91,98,4.14
+Bluff,southern,-46.6,168.3333,52.41,86,100,8.97
+Dingle,northern,10.9995,122.6711,73.31,95,100,4.07
+Longyearbyen,northern,78.2186,15.6401,15.8,73,90,9.22
+Tautira,southern,-17.7333,-149.15,86,62,20,4.61
+Wajima,northern,37.4,136.9,41.18,75,100,15.55
+Thompson,northern,55.7435,-97.8558,-22,63,40,9.22
+Najrān,northern,17.4924,44.1277,59,72,40,4.61
+Avera,northern,33.194,-82.5271,66.24,77,90,4.61
+Nikolskoye,northern,59.7035,30.7861,1.62,85,20,2.24
+Bilibino,northern,68.0546,166.4372,-6.93,87,0,3.13
+Esperance,southern,-33.8667,121.9,59,82,0,3.44
+Lebu,southern,-37.6167,-73.65,67.37,67,3,13.42
+Mataura,southern,-46.1927,168.8643,48.15,95,100,5.48
+Rāpar,northern,23.5667,70.6333,67.37,47,71,9.26
+Andros Town,northern,24.7,-77.7667,82.4,61,20,12.66
+Kapaa,northern,22.0752,-159.319,69.35,60,75,16.11
+Port Alfred,southern,-33.5906,26.891,70,90,28,2.15
+Lata,northern,40.1629,-8.3327,53.74,86,77,1.99
+Gold Coast,southern,-28,153.4333,68.45,68,40,6.91
+Jamestown,northern,42.097,-79.2353,24.35,68,90,6.91
+Saskylakh,northern,71.9167,114.0833,-24.11,83,0,8.39
+Castro,southern,-24.7911,-50.0119,72.37,67,100,6.38
+Airai,southern,-8.9266,125.4092,61.38,100,100,1.63
+Edéia,southern,-17.3383,-49.9314,82.36,59,31,3.47
+Il’inskiy,northern,55.619,38.1182,8.73,85,75,11.18
+George Town,northern,5.4112,100.3354,79.88,83,20,3.44
+Halifax,northern,44.6453,-63.5724,27.34,40,20,14.97
+Namatanai,southern,-3.6667,152.4333,79.05,84,93,4.41
+Bredasdorp,southern,-34.5322,20.0403,66.2,77,4,1.14
+Mahébourg,southern,-20.4081,57.7,78.8,78,20,4.61
+Prokop'yevsk,northern,53.9059,86.719,-2.58,89,100,9.84
+Hithadhoo,southern,-0.6,73.0833,82.47,79,65,11.36
+Minsk,northern,53.9,27.5667,12.2,85,75,4.47
+Kropotkin,northern,45.4375,40.5756,42.78,86,4,12.73
+Port-Cartier,northern,50.0334,-66.8654,14.36,41,20,10.36
+Vestmanna,northern,62.1564,-7.1664,28.4,86,64,6.91
+Oranjemund,southern,-28.55,16.4333,64.92,84,0,14.7
+Aripuanã,southern,-9.1667,-60.6333,81.88,79,85,5.57
+Aykhal,northern,66,111.5,-20.76,85,100,7.81
+Hluti,southern,-27.2167,31.6167,69.84,97,40,1.72
+Hauterive,northern,46.0901,3.4459,38.39,93,75,2.3
+Puerto Cabello,northern,10.4731,-68.0125,93.2,43,40,16.31
+Buala,southern,-8.145,159.5921,79.93,85,51,9.28
+Yendi,northern,9.4427,-0.0099,85.32,13,17,2.53
+São Filipe,northern,14.8961,-24.4956,70.79,76,100,10.89
+Port Lincoln,southern,-34.7333,135.8667,69.51,61,0,7.87
+Kruisfontein,southern,-34.0033,24.7314,66.99,85,0,2.71
+Burnie,southern,-41.0667,145.9167,51.17,78,29,11.74
+Tezu,northern,27.9167,96.1667,60.69,36,0,4.14
+Hofn,northern,64.2539,-15.2082,32.81,92,100,8.81
+Ilulissat,northern,69.2167,-51.1,19.4,45,1,9.22
+Pevek,northern,69.7008,170.3133,-4.36,72,0,0.76
+Port Keats,southern,-14.25,129.55,78.4,83,100,1.63
+Korfovskiy,northern,48.2183,135.0564,1.4,55,0,6.71
+Parry Sound,northern,45.3501,-80.033,20.79,73,100,4.54
+Miramar,northern,25.9873,-80.2323,82.4,39,40,9.22
+Broken Hill,southern,-31.95,141.4333,73.4,27,0,6.91
+Saint Paul Harbor,northern,57.79,-152.4072,30.2,80,90,2.39
+Bandar,northern,2.05,99.75,73.81,93,99,2.01
+Isabela,northern,6.7085,121.9711,77.72,85,99,2.64
+Atuona,southern,-9.8,-139.0333,79.23,76,14,18.9
+Umrāla,northern,21.8333,71.8167,65.82,28,78,7.05
+Severo-Kuril'sk,northern,50.6789,156.125,25.59,94,100,24.99
+Karur,northern,10.95,78.0833,67.98,70,0,7.38
+Atambua,southern,-9.1061,124.8925,74.39,90,100,1.1
+Geraldton,southern,-28.7667,114.6,60.8,88,40,9.22
+Nānākuli,northern,21.3906,-158.1547,68.88,56,75,3.44
+Kavieng,southern,-2.5744,150.7967,82.53,78,99,10.07
+Outjo,southern,-20.1167,16.15,70.16,75,80,4.68
+Dakar,northern,14.6937,-17.4441,68,73,0,11.5
+Havre-St-Pierre,northern,50.2334,-63.5986,17.6,57,1,19.57
+Yabrūd,northern,33.9674,36.6574,48.97,66,0,2.91
+Ambovombe,southern,-25.1667,46.0833,74.97,85,100,6.17
+Haimen,northern,23.1935,116.6142,60.8,72,75,6.71
+Talcahuano,southern,-36.7167,-73.1167,71.6,68,0,10.36
+Narsaq,northern,60.9167,-46.05,35.6,27,75,33.38
+Meulaboh,northern,4.1363,96.1285,78.03,86,19,3.96
+Fomboni,southern,-12.28,43.7425,83.77,75,97,18.12
+Seljord,northern,59.4894,8.634,12.99,74,46,1.01
+Mielec,northern,50.2871,21.4239,23,64,100,4
+Zhigansk,northern,66.7697,123.3711,-28.19,83,0,0.58
+St. George's,northern,12.0564,-61.7485,82.4,69,20,18.41
+Marsabit,northern,2.3284,37.9899,72.32,49,37,8.5
+Arcata,northern,40.8665,-124.0828,50.85,87,20,3.15
+Porbandar,northern,21.6422,69.6093,65.32,59,34,5.99
+Vanavara,northern,60.34,102.2797,8.96,95,95,8.93
+Kenai,northern,60.5544,-151.2583,5.18,78,90,10.36
+Kaka,northern,37.3482,59.6143,58.91,35,83,2.48
+Faanui,southern,-16.4833,-151.75,82.06,73,0,15.46
+Cabo San Lucas,northern,22.8909,-109.9124,73.06,60,1,10.36
+Aasiaat,northern,68.7098,-52.8699,11.48,88,0,7.65
+Maragogi,southern,-9.0122,-35.2225,81.41,68,23,8.19
+Barrow,northern,71.2906,-156.7887,-29.2,85,1,13.8
+Kahului,northern,20.8947,-156.47,66.54,64,75,14.97
+Kondoa,southern,-4.9,35.7833,63.45,95,92,0.94
+Tabuk,northern,17.4189,121.4443,68.92,90,100,5.44
+Ponta do Sol,northern,32.6667,-17.1,57.22,64,95,3
+Provideniya,northern,64.3833,-173.3,-5.64,77,0,14.27
+Kletnya,northern,53.3897,33.2171,7.05,95,97,6.15
+Vanimo,southern,-2.6741,141.3028,77.67,83,47,4.07
+Odesa,northern,46.4775,30.7326,41,93,0,11.18
+Lagos,northern,6.5833,3.75,84.2,79,20,10.36
+Ribeira Grande,northern,38.5167,-28.7,62.6,94,75,24.16
+Aksu,northern,41.1231,80.2644,29.66,86,79,1.79
+Pangkalanbuun,southern,-2.6833,111.6167,74.14,97,100,2.39
+San Alberto,northern,7.7611,-73.3922,92.44,46,51,1.79
+Nouakchott,northern,18.0858,-15.9785,78.8,11,100,8.05
+Tocopilla,southern,-22.092,-70.1979,73.58,57,34,5.97
+Kumo,northern,10.0447,11.2122,77.05,17,0,7.2
+Inírida,northern,3.8653,-67.9239,85.77,74,99,4.12
+Vila Velha,southern,-20.3297,-40.2925,73.51,94,90,3.44
+Half Moon Bay,northern,37.4636,-122.4286,55.78,82,90,3.44
+Corralillo,northern,22.9819,-80.5856,80.38,66,0,16.44
+General Salgado,southern,-20.6483,-50.3606,81.46,55,94,7.2
+Cabedelo,southern,-6.9811,-34.8339,87.8,62,0,11.5
+Laas,northern,46.6166,10.7002,39.61,65,75,4.61
+Vardø,northern,70.3705,31.1107,23,63,40,24.16
+Moose Factory,northern,51.2585,-80.6094,-2.2,46,1,9.22
+Malakanagiri,northern,18.35,81.9,58.53,41,2,0.94
+Khatanga,northern,71.9667,102.5,-18.81,84,0,9.93
+Guerrero Negro,northern,27.9769,-114.0611,67.53,51,5,9.91
+Sehwan,northern,26.4279,67.863,64.4,68,91,4.61
+Dzaoudzi,southern,-12.7887,45.2699,77,88,100,13.13
+Starosubkhangulovo,northern,53.1031,57.4423,-18.42,84,14,2.93
+Piranshahr,northern,36.701,45.1413,40.41,67,13,6.06
+Brownsville,northern,25.9018,-97.4975,81.54,57,75,11.5
+Cayenne,northern,4.9333,-52.3333,82.4,65,75,10.36
+Havøysund,northern,70.9963,24.6622,23.95,68,75,27.63
+Panzhihua,northern,26.5851,101.7128,37.99,81,0,1.01
+Seoul,northern,37.5683,126.9778,25.48,80,40,6.91
+Homer,northern,59.6425,-151.5483,22.03,68,90,5.66
+Manmād,northern,20.25,74.45,66.52,26,0,2.59
+Margate,northern,51.3813,1.3862,31.86,56,100,4
+Camacha,northern,33.0833,-16.3333,62.6,82,20,10.36
+Udachny,northern,66.4167,112.4,-23.51,84,48,7.16
+Flin Flon,northern,54.7682,-101.865,-16.6,63,75,13.8
+Kutno,northern,52.2306,19.3641,17.15,79,90,1.14
+Miyako,northern,39.6367,141.9525,25.56,86,0,3.65
+Kumluca,northern,36.3703,30.2869,60.04,77,46,3.58
+Ayan,northern,56.45,138.1667,6.73,87,85,13.11
+Kulevcha,northern,46.0303,29.9361,45.41,73,96,8.01
+Saint-Augustin,northern,51.226,-58.6502,25.84,97,100,15.88
+Vila do Maio,northern,15.1333,-23.2167,69.8,73,0,20.71
+Ōhara,northern,35.25,140.3833,36.12,55,20,5.75
+Bengkulu,southern,-3.8004,102.2655,75.61,88,100,4.92
+San Patricio,northern,28.017,-97.5169,78.6,61,75,10.8
+Chapayevka,northern,47.4711,36.3451,33.35,94,80,8.95
+Labuhan,southern,-6.8844,112.2051,77.85,86,100,11.23
+Anadyr,northern,64.75,177.4833,5,78,0,4.47
+San Rafael del Sur,northern,11.8485,-86.4384,91.4,49,20,13.8
+Mehamn,northern,71.0357,27.8492,26.6,68,75,27.63
+Hasaki,northern,35.7333,140.8333,30.7,55,20,5.75
+Eureka,northern,40.8021,-124.1637,51.75,72,100,1.99
+Payakumbuh,southern,-0.2202,100.6308,69.3,88,55,2.62
+Ziro,northern,27.6333,93.8333,39.87,100,30,2.13
+Norfolk,northern,42.1668,-71.2495,26.55,86,90,5.75
+Bairnsdale,southern,-37.8333,147.6167,59,76,76,7
+Ust'-Uda,northern,54.1742,103.0304,17.33,91,97,8.08
+Tasiilaq,northern,65.6145,-37.6368,17.6,57,75,18.41
+Susanville,northern,40.4163,-120.653,50,50,1,4.61
+Liverpool,northern,53.4106,-2.9779,31.64,80,20,11.5
+Manado,northern,1.487,124.8455,75.2,94,20,1.14
+Kirakira,southern,-10.4544,161.9205,80.19,83,97,5.41
+Salalah,northern,17.0151,54.0924,77,53,0,2.3
+Yangi Marg`ilon,northern,40.4272,71.7189,48.2,76,90,4.61
+Te Anau,southern,-45.4167,167.7167,46.09,90,100,1.92
+Faya,northern,18.3851,42.4509,50,66,0,5.12
+Kasongo-Lunda,southern,-6.4667,16.8167,73.18,90,100,2.13
+Samarai,southern,-10.6167,150.6667,81.68,74,100,5.64
+Mungeli,northern,22.0667,81.6833,59.22,34,0,4.56
+Socorro,northern,31.6546,-106.3033,68.67,15,1,10.36
+Whitehorse,northern,60.7161,-135.0538,-41.8,66,1,2.04
+Clyde River,northern,70.4692,-68.5914,-0.4,92,20,6.91
+Praxédis Guerrero,northern,31.3667,-106.0167,68.59,15,1,10.36
+Ponta Delgada,northern,37.7333,-25.6667,60.91,94,75,14.97
+Bambanglipuro,southern,-7.95,110.2833,76.55,86,100,5.73
+Stornoway,northern,58.2093,-6.3865,33.06,69,40,10.36
+New Norfolk,southern,-42.7826,147.0587,47.39,66,28,1.83
+Lompoc,northern,34.6391,-120.4579,52.11,76,90,3.44
+Port Blair,northern,11.6667,92.75,74.39,66,0,9.08
+West Fargo,northern,46.875,-96.9004,-0.63,60,75,17.27
+Charagua,southern,-19.8,-63.2167,66.2,88,90,7.14
+Foz,northern,43.5692,-7.2544,44.64,99,100,11.99
+Shelburne,northern,44.0787,-80.2041,21.56,54,90,6.91
+Iqaluit,northern,63.7506,-68.5145,8.29,78,40,5.75
+Sinnamary,northern,5.3833,-52.95,79.77,75,100,12.33
+Matara,northern,5.9485,80.5353,73.51,83,51,5.1
+Constitución,southern,-35.3333,-72.4167,70.18,65,11,8.14
+Port Hardy,northern,50.6996,-127.4199,32.7,80,75,5.75
+Galle,northern,6.0367,80.217,76.96,83,57,5.93
+Cabra,northern,37.4725,-4.4421,53.01,79,100,8.99
+Agadez,northern,19.75,10.25,66.56,22,0,5.06
+San Juan,southern,-31.5375,-68.5364,77.02,40,8,5.7
+Sorong,southern,-0.8833,131.25,81.34,78,100,6.33
+Neiafu,southern,-18.65,-173.9833,77,88,75,17.27
+Bilma,northern,18.6853,12.9164,71.19,18,0,8.25
+Sangar,northern,63.9242,127.4739,-24.14,84,0,5.59
+Rocha,southern,-34.4833,-54.3333,70.61,82,52,15.17
+Katsuura,northern,35.1333,140.3,38.12,38,20,11.5
+Russell,northern,32.3502,-85.1999,63.21,72,90,1.95
+Normandin,northern,48.8333,-72.5321,3.87,66,100,4.61
+Līvāni,northern,56.3543,26.1758,13.14,96,100,7.47
+Departamento de Maldonado,southern,-34.6667,-54.9167,72.91,83,75,16.11
+Rovenki,northern,48.0833,39.3776,34.86,100,100,9.53
+Talas,northern,38.6908,35.5538,44.6,61,0,6.91
+Bambous Virieux,southern,-20.3428,57.7575,78.89,78,20,4.61
+San Quintín,northern,30.4833,-115.95,60.08,66,100,7.34
+Villarrica,southern,-25.75,-56.4333,82.74,70,100,3.49
+Banjar,southern,-8.19,114.9675,78.8,89,75,11.5
+Acapulco de Juárez,northern,16.8634,-99.8901,82.4,69,1,9.22
+Chavakachcheri,northern,9.6579,80.1643,74.89,73,3,14.09
+Cortes,northern,41.9395,-1.4396,48.18,71,35,9.22
+Matagami,northern,49.7502,-77.6328,10.4,56,75,6.91
+Sioux Lookout,northern,50.1001,-91.917,-13,53,90,10.36
+Mackenzie,northern,55.2999,-123.1698,-14.8,48,1,5.75
+Muros,northern,42.7762,-9.0603,49.5,85,98,5.99
+Derzhavīnsk,northern,51.1,66.3167,-23.08,86,0,11.07
+Sāveh,northern,35.0213,50.3566,55.89,37,15,7.67
+Padang,southern,-0.9492,100.3543,75.2,94,20,1.14
+Tamandaré,southern,-8.7597,-35.1047,82.08,63,0,7.18
+Durango,northern,24.8333,-104.8333,72.82,17,0,6.58
+Aktau,northern,43.65,51.2,35.6,93,75,17.9
+Zhuhai,northern,22.2769,113.5678,63.93,82,40,20.71
+Røros,northern,62.5747,11.3842,1.4,78,0,8.05
+Wattegama,northern,6.7989,81.4808,77,78,20,10.36
+Evensk,northern,61.95,159.2333,15.37,89,100,25.72
+Kamyshlov,northern,56.8428,62.7111,-15.57,86,98,8.25
+Ostrovnoy,northern,68.0531,39.5131,4.24,89,100,13.89
+Batagay-Alyta,northern,67.8006,130.4114,-11.38,76,100,2.62
+Nîmes,northern,43.8333,4.35,50,81,90,4.61
+Hualmay,southern,-11.0964,-77.6139,76.51,68,47,10.96
+Vāghodia,northern,22.3,73.3833,69.26,23,75,3.85
+Torbay,northern,47.6666,-52.7314,32.43,86,90,32.21
+Changji,northern,44.0167,87.3167,23,86,20,8.95
+Salihorsk,northern,52.7876,27.5415,10,96,99,4.38
+Sitka,northern,57.0531,-135.33,15.8,41,1,9.22
+Sīwah,northern,29.2041,25.5195,63.72,38,100,7.38
+Kapit,northern,2.0167,112.9333,73.4,95,100,1.05
+Ancud,southern,-41.8697,-73.8203,79.2,41,0,9.22
+Onega,northern,63.9061,38.1404,-2.11,93,91,5.28
+Coronado,northern,32.6859,-117.1831,56.57,67,90,3.44
+Krasnosel'kup,northern,65.7,82.4667,-11.27,88,100,16.82
+Pedernales,northern,18.0384,-71.744,87.1,36,58,15.01
+Ţahţā,northern,26.7693,31.5021,66.11,36,0,4.61
+Paraíso,northern,9.8383,-83.8656,77.76,50,0,12.66
+Kavaratti,northern,10.5669,72.642,80.89,68,0,7.58
+Chernyshevskiy,northern,63.0128,112.4714,-13.58,91,100,10.6
+Quelimane,southern,-17.8786,36.8883,82.18,61,20,3.44
+Piaçabuçu,southern,-10.4056,-36.4344,81.57,65,3,11.1
+Necochea,southern,-38.5473,-58.7368,69.01,59,30,8.01
+Bukama,southern,-9.2,25.85,70.72,91,25,0.38
+Wanxian,northern,30.8039,108.3897,54.32,66,50,1.14
+Bereket,northern,39.2446,55.5154,52.2,62,1,2.68
+Nizwá,northern,22.9333,57.5333,65.25,40,100,3.36
+Kloulklubed,northern,7.0419,134.2556,77,83,90,5.75
+Westport,northern,41.1415,-73.3579,31.87,86,90,13.8
+Mali,northern,12.079,-12.2982,69.55,25,26,3.38
+Morón,southern,-34.6534,-58.6198,71.35,78,90,8.05
+Sabha,northern,27.0377,14.4283,62.37,28,61,8.05
+Sompeta,northern,18.9333,84.6,66.96,70,28,4.34
+Tura,northern,25.5198,90.2201,59.25,38,0,2.8
+Ouagadougou,northern,12.3642,-1.5383,86,11,0,2.3
+Chapais,northern,49.7834,-74.8492,10.4,72,90,3.44
+Toora-Khem,northern,52.4675,96.11,16.12,95,100,3
+Norman Wells,northern,65.282,-126.8329,-38.2,67,20,2.3
+Rome,northern,43.2128,-75.4557,25.45,80,90,6.08
+San Cristobal,northern,7.7669,-72.225,86,54,40,6.91
+Āreka,northern,7.0667,37.7,58.08,72,12,7.36
+Nagapattinam,northern,10.7667,79.8333,72.77,75,100,9.62
+Druzhba,northern,52.0428,33.9453,11.61,96,92,5.82
+Rawson,southern,-43.3002,-65.1023,78.22,33,100,28.19
+Los Llanos de Aridane,northern,28.6585,-17.9182,60.62,68,40,4.56
+Esna,northern,25.2934,32.554,73.4,31,59,4.61
+Alegrete,southern,-29.7831,-55.7919,80.33,55,99,6.6
+Harper,northern,4.375,-7.7169,80.2,83,100,6.82
+Nishihara,northern,26.1842,127.7558,61.7,59,75,5.75
+Coquimbo,southern,-29.9533,-71.3436,68,68,0,14.97
+Praia,northern,14.9215,-23.5087,69.8,73,0,20.71
+Tevaitoa,southern,-16.7833,-151.5,81.88,72,0,14.76
+Sørland,northern,67.667,12.6934,31.23,85,5,20.47
+Canoinhas,southern,-26.1772,-50.39,78.46,41,54,3.02
+Yadgir,northern,16.7667,77.1333,65.71,40,0,6.24
+Bahía Blanca,southern,-38.7196,-62.2724,81.57,28,0,8.37
+Kaz,northern,52.9113,87.3105,0.68,92,100,3.71
+Nuoro,northern,40.3211,9.3297,55.4,71,40,5.75
+Meaford,northern,44.6001,-80.583,20.17,70,100,5.99
+Bandi̇̄pur,northern,27.9333,84.4167,46.71,84,54,2.35
+Ouadda,northern,8.0777,22.4007,67.6,23,32,5.32
+Mombetsu,northern,44.3525,143.3525,18.88,93,100,9.06
+Maholi,northern,27.6667,80.4667,59.49,52,100,4.03
+Lamu,southern,-2.2717,40.902,80.6,78,1,13.51
+Ulaangom,northern,49.9811,92.0667,8.2,88,21,3.02
+Zhangye,northern,38.9342,100.4517,33.28,71,66,4.43
+Yumen,northern,40.2833,97.2,33.35,74,71,17.56
+Areosa,northern,41.7178,-8.8571,51.12,76,75,13.8
+Comodoro Rivadavia,southern,-45.8667,-67.5,82.4,34,0,13.8
+Las Cruces,northern,32.3123,-106.7783,66.81,12,1,10.36
+Huarmey,southern,-10.0681,-78.1522,77.02,66,52,10.67
+Dunedin,southern,-45.8742,170.5036,51.01,89,100,1.99
+Ilebo,southern,-4.3167,20.5833,77.34,68,100,2.15
+Adrar,northern,20.5022,-10.0711,68.27,21,71,8.63
+Dumai,northern,1.6833,101.45,74.5,94,7,1.81
+Kamaishi,northern,39.2667,141.8833,28.54,85,8,6.69
+Turan,northern,16.0678,108.2208,69.8,73,75,2.3
+Taltal,southern,-25.4,-70.4833,70.39,63,30,7.27
+Bismarck,northern,46.8083,-100.7837,0.39,43,1,14.97
+Vao,southern,-22.6667,167.4833,77.88,83,15,10.98
+Calvinia,southern,-31.4707,19.776,75.45,27,0,4.59
+Zhangaözen,northern,43.3,52.8,40.57,65,100,15.68
+Uspenskaya,northern,45.7645,41.067,42.8,85,34,15.43
+Senneterre,northern,48.3835,-77.2328,19.4,73,75,5.75
+Remanso,southern,-9.6179,-42.0831,80.8,71,97,6.82
+Pa Sang,northern,18.5262,98.9394,60.39,88,0,3.44
+Pangnirtung,northern,66.1451,-65.7125,8.6,72,20,1.74
+São Borja,southern,-28.6606,-56.0044,85.95,44,100,11.21
+Oudtshoorn,southern,-33.5907,22.2014,68,88,40,1.14
+Fort-Shevchenko,northern,44.5086,50.263,37.69,79,100,10.74
+Banda Aceh,northern,5.5577,95.3222,79.02,83,41,7.9
+Lavrentiya,northern,65.5833,-171,-12.64,80,0,14.67
+Rumoi,northern,43.9344,141.6428,23.86,91,95,14.72
+Hvolsvollur,northern,63.7533,-20.2243,28.99,86,100,5.01
+Basco,northern,20.4487,121.9702,73.53,77,100,27.02
+Veracruz,northern,19.3333,-96.6667,84.61,61,1,10.36
+Shahr-e Kord,northern,32.3256,50.8644,35.6,55,0,2.3
+Pacific Grove,northern,36.6177,-121.9166,55.27,71,1,5.75
+Sola,southern,-13.8833,167.55,81.97,71,100,2.19
+Coyhaique,southern,-45.5752,-72.0662,87.8,27,20,8.05
+Rognan,northern,67.0953,15.3878,10.51,89,0,5.86
+Husavik,northern,66.0449,-17.3389,23,100,90,2.3
+Kodinsk,northern,58.6881,99.1844,2.84,92,99,6.17
+Kiruna,northern,67.8557,20.2251,-4,84,10,2.3
+Limbang,northern,4.75,115,78.4,94,75,3.44
+Tiksi,northern,71.6872,128.8694,-16.78,83,100,3.8
+Muisne,northern,0.6,-80.0333,82.4,83,75,5.75
+Ambon City,southern,-3.6954,128.1814,84,86,98,4.54
+Tambopata,southern,-12.7333,-69.1833,89.6,70,40,6.91
+Malabo,northern,3.75,8.7833,82.63,77,1,6.71
+Rio Grande,southern,-32.035,-52.0986,77.36,69,40,5.75
+Kudahuvadhoo,northern,2.6708,72.8944,81.25,76,16,16.22
+Bosaso,northern,11.2842,49.1816,73.33,66,94,4.36
+Bud,northern,39.447,-86.1758,24.94,74,90,6.91
+Predivinsk,northern,57.0669,93.4378,-2.42,89,83,5.7
+Merauke,southern,-8.4667,140.3333,79.38,86,100,9.04
+Māngrol,northern,21.1167,70.1167,68.63,42,73,9.93
+Labuan,northern,5.2767,115.2417,77,94,20,1.81
+Dubica,northern,45.1767,16.8094,42.8,100,30,3.44
+Isangel,southern,-19.55,169.2667,77,88,20,8.52
+Athabasca,northern,54.7169,-113.2854,-19.25,63,100,17.27
+Brae,northern,60.3964,-1.353,32,55,75,19.57
+Aklavik,northern,68.2191,-135.0107,-39.05,74,0,2.3
+Takaka,southern,-40.85,172.8,60.01,90,0,5.01
+Tucumã,southern,-0.1833,-50.05,78.82,87,88,7.83
+Malangali,southern,-8.5667,34.85,63.36,90,100,1.81
+Balaipungut,northern,1.05,101.2833,75.52,91,90,1.19
+Kolāras,northern,25.2333,77.6,64.96,29,100,4.05
+Paita,southern,-5.0892,-81.1144,82.4,61,0,12.66
+Hastings,northern,50.8552,0.5729,29.79,61,34,11.01
+Tazovsky,northern,67.4667,78.7,-24,86,7,10.96
+Jardim,southern,-21.4803,-56.1381,84.76,46,100,7.78
+Puerto Escondido,northern,15.85,-97.0667,86,70,20,10.36
+Taoudenni,northern,22.6783,-3.9836,69.6,20,0,11.27
+Provincia di Cagliari,northern,39.245,9.0912,58.32,67,0,6.91
+Peace River,northern,56.2501,-117.286,-25.6,68,75,5.75
+Creel,northern,27.75,-107.6333,61.3,27,0,13.42
+Sobolevo,northern,54.4299,31.8996,7.65,95,98,7.96
+Sunyani,northern,7.3399,-2.3268,84.33,33,26,2.64
+Yulara,southern,-25.2406,130.9889,84.2,54,33,3.44
+Zhezkazgan,northern,47.8043,67.7144,-10.64,89,0,7.81
+Shonguy,northern,68.7526,33.146,-9.4,77,40,2.24
+Mweka,southern,-4.85,21.5667,74.7,74,100,1.36
+Mount Isa,southern,-20.7333,139.5,78.8,89,82,5.75
+Kalmunai,northern,7.4167,81.8167,73.22,80,68,9.31
+Lüderitz,southern,-26.6481,15.1594,69.8,68,0,12.46
+Arman',northern,59.7,150.1667,13.77,86,100,17.67
+Manta,southern,-0.95,-80.7333,78.8,89,90,5.75
+Sinaloa,northern,25,-107.5,78.57,38,1,9.22
+Karratha,southern,-20.7377,116.8463,82.24,52,0,13.8
+Mizdah,northern,31.4451,12.9801,58.21,34,0,4.76
+Ishigaki,northern,24.3448,124.1572,68.13,74,99,18.54
+Kargat,northern,55.1956,80.2811,-7.58,89,100,12.28
+Singaparna,southern,-7.3515,108.111,71.49,89,90,0.98
+Saldanha,southern,-33.0117,17.9442,68,73,0,13.8
+Valentín Gómez Farías,northern,28.2167,-106.5833,71.01,19,18,5.01
+Varhaug,northern,58.6147,5.6457,14.14,73,0,7.09
+Tucuruí,southern,-3.7661,-49.6725,80.65,85,100,3.24
+Abnūb,northern,27.2696,31.1511,68,42,0,6.91
+Poconé,southern,-16.2567,-56.6228,97.83,24,1,2.28
+Pandamatenga,southern,-18.5278,25.627,67.12,90,100,7.38
+Muborak,northern,39.2553,65.1528,53.82,53,74,7.36
+Xining,northern,36.6167,101.7667,29.46,68,0,1.61
+Sonoita,northern,31.85,-112.8333,73.99,17,76,3
+Narrabri,southern,-30.3167,149.7833,63.19,68,40,11.5
+Kayes,northern,14,-11,84.88,14,37,6.49
+Cockburn Town,northern,21.4612,-71.1419,78.8,69,40,13.8
+Hay River,northern,60.8156,-115.7999,-18.4,69,100,21.85
+Oussouye,northern,12.485,-16.5469,82.29,64,0,6.91
+Muncar,southern,-8.4333,114.3333,75.83,88,83,3.51
+Kumul,northern,42.8,93.45,35.46,72,99,5.35
+Barcelos,northern,41.5388,-8.6151,50.67,76,75,13.8
+Yüksekova,northern,37.5736,44.2872,41,56,0,6.91
+Aku,northern,6.7081,7.3167,86.23,39,50,4.16
+Drochtersen,northern,53.7102,9.3846,25.32,89,100,3
+Pangody,northern,65.85,74.4859,-20.96,87,91,10.04
+Vaitape,southern,-16.5167,-151.75,82.04,73,0,15.39
+Sivas Province,northern,39.7916,37.0019,37.4,75,0,18.41
+Novo Aripuanã,southern,-5.1206,-60.3797,74.66,97,100,3.04
+Mendoza,southern,-32.8908,-68.8272,71.6,64,75,6.91
+Honningsvåg,northern,70.9821,25.9704,26.6,68,75,27.63
+Chagoda,northern,59.164,35.3285,1.63,92,100,2.39
+Cavalcante,southern,-13.7975,-47.4583,75.69,79,58,2.46
+Mama,northern,58.3106,112.8986,18.39,91,100,5.66
+Atar,northern,20.5169,-13.0499,68.61,23,0,8.84
+Zhalantun,northern,48,122.7167,12.63,92,100,4.43
+Zhengjiatun,northern,43.5064,123.5064,13.84,93,0,3.89
+Chernyshevsk,northern,52.5243,117.0174,2.7,93,100,3.29
+Mendi,southern,-6.1761,143.6513,54.63,97,100,1.97
+Hobyo,northern,5.3505,48.5268,77.11,72,80,22.41
+Baker City,northern,44.7749,-117.8344,31.93,48,40,1.52
+Walvis Bay,southern,-22.9575,14.5053,65.59,88,59,11.5
+Praia,northern,14.9215,-23.5087,69.8,73,0,20.71
+Pimentel,southern,-6.8367,-79.9342,77.97,51,0,18.41
+Laguna,northern,38.421,-121.4238,61.38,59,1,4.07
+Estelle,northern,29.8458,-90.1067,71.51,83,75,8.05
+Bacolod City,northern,10.6667,122.95,75.92,86,95,3.27
+Pisco,southern,-13.7,-76.2167,76.14,69,0,6.91
+Puerto Nariño,southern,-3.7703,-70.3831,82.4,83,75,4.61
+Teya,northern,60.3778,92.6267,-2.85,85,100,10.38
+Cairns,southern,-16.9167,145.7667,76.5,94,75,1.14
+Dabat,northern,12.9842,37.765,49.17,49,48,0.34
+Chalmette,northern,29.9427,-89.9634,71.74,68,40,5.75
+Barra de Tecoanapa,northern,16.5167,-98.75,83.53,59,0,9.82
+Thinadhoo,northern,0.5333,72.9333,82.06,81,95,14.63
+El Dorado,northern,38.7666,-120.5177,54.18,63,100,5.06
+Saint Anthony,northern,45.0205,-93.218,7.99,51,1,17.27
+Luziânia,southern,-16.2525,-47.9503,79.45,57,40,4.61
+Tabat,southern,-2.635,115.2274,74.84,93,100,0.45
+Nago,northern,26.5881,127.9761,61.65,59,75,5.75
+Georgiyevka,northern,43.0369,74.7114,23,93,90,2.24
+Lukang,northern,24.0567,120.4352,61.66,88,40,2.77
+Beya,northern,53.0533,90.9139,1.74,87,1,7.78
+Lakes Entrance,southern,-37.8811,147.981,59.49,78,99,10.94
+Oddur,northern,4.1213,43.8894,75.97,34,49,13.4
+Province of Mantua,northern,45.1667,10.7833,47.68,92,100,1.01
+Fairmont,northern,39.4851,-80.1426,30.9,88,99,3.78
+Namtsy,northern,62.7161,129.6658,-32.8,68,14,6.71
+Caravelas,southern,-17.7125,-39.2481,78.31,67,58,7.07
+La Asuncion,northern,11.0333,-63.8628,78.8,64,0,15.73
+Buenos Aires,southern,-34.6132,-58.3772,72.36,68,75,11.5
+Foki,northern,56.693,54.3499,-11.7,90,78,4.12
+Port Macquarie,southern,-31.4333,152.9167,64.4,94,75,9.22
+Makassar,southern,-5.14,119.4221,75.2,94,20,3.44
+Jacmel,northern,18.2342,-72.5347,91.4,35,46,16.11
+Beipiao,northern,41.7919,120.7792,25.14,87,0,1.88
+Tuy Hoa,northern,13.0833,109.3,72.14,92,77,12.03
+Alenquer,southern,-1.9417,-54.7383,82.4,78,75,4.61
+Monrovia,northern,6.3005,-10.7969,80.6,94,75,9.01
+Kieta,southern,-6.2167,155.6333,79.77,83,55,9.33
+Hohhot,northern,40.8106,111.6522,15.8,62,0,4.47
+Touros,southern,-5.1989,-35.4608,86,58,20,18.41
+Murud,northern,18.3258,72.965,71.78,49,0,5.28
+Oktyabr'skoye,northern,43.0645,44.7417,26.6,100,16,4.47
+Berbera,northern,10.4396,45.0143,76.69,57,66,3.56
+Allanton,northern,55.7833,-2.2167,28.99,93,100,12.59
+Sindi,northern,20.8,78.8667,60.8,63,4,2.3
+Kiama,southern,-34.6833,150.8667,61.83,93,100,1.01
+Alta Floresta,southern,-9.8756,-56.0861,81.66,86,100,3.2
+Hervey Bay,southern,-25.2986,152.8535,70,74,10,1.01
+Kibre Mengist,northern,5.8833,38.9833,62.67,58,83,3.74
+Nuevo Progreso,northern,23.1667,-97.95,78.53,63,74,8.01
+Olafsvik,northern,64.8945,-23.7142,28.9,94,100,21.59
+Bandarbeyla,northern,9.4942,50.8122,75.42,71,96,21.92
+Omutninsk,northern,58.67,52.1932,-20.45,86,0,4.09
+Sibolga,northern,1.7427,98.7792,78.15,80,97,3.69
+Srednekolymsk,northern,67.45,153.6833,-15.09,87,0,5.46
+Lensk,northern,60.7253,114.9278,4.21,91,99,3.65
+Sabzawār,northern,36.2126,57.6819,50.18,52,53,0.96
+Berlevåg,northern,70.8578,29.0864,19.4,63,75,16.11
+Vestmannaeyjar,northern,63.4427,-20.2734,37.6,79,100,16.62
+Puri,northern,19.8,85.85,64.4,82,66,4.45
+Chulym,northern,55.0997,80.9572,-5.96,90,100,12.26
+Little Current,northern,45.9793,-81.9248,14.13,67,90,12.66
+Hermosillo,northern,29.0667,-110.9667,78.39,15,1,4.61
+Shebunino,northern,46.4339,141.8603,21.33,93,100,13.62
+North Bend,northern,43.4065,-124.2243,45.41,76,40,4.43
+Pathein,northern,16.7833,94.7333,63.36,79,0,4
+Mwense,southern,-10.3845,28.698,67.87,89,100,3.78
+Abhā,northern,18.2164,42.5053,50,66,0,3.65
+Deputatsky,northern,69.3,139.9,-20.31,90,75,2.75
+Macapá,northern,0.0389,-51.0664,89.6,62,75,11.5
+Kohlu,northern,29.8962,69.252,52.12,41,0,5.93
+Makkah al Mukarramah,northern,21.4267,39.8261,75.36,43,0,6.4
+Arlit,northern,18.7369,7.3853,73.02,15,1,5.01
+Hingatungan,northern,10.584,125.1852,78.33,84,88,6.11
+Leirvik,northern,59.7798,5.5005,20.26,65,24,5.01
+Mokhsogollokh,northern,61.4681,128.9203,-24.32,87,54,4.54
+Imbituba,southern,-28.24,-48.6703,80.6,69,20,11.5
+Gondanglegi,southern,-7.7479,112.0132,74.32,90,96,2.75
+Santa Fe,southern,-31.6333,-60.7,82.83,44,100,4
+Kazaki,northern,52.6248,38.2649,9.07,95,100,11.56
+Aras,northern,42.5617,-2.356,44.6,81,0,2.3
+Pinehurst,northern,35.1954,-79.4695,62.42,63,75,3.44
+Turukhansk,northern,65.8167,87.9833,4.32,94,96,13.2
+Kang,southern,-23.6752,22.7876,71.96,75,100,8.86
+Luwuk,southern,-0.9516,122.7875,78.73,73,98,1.77
+Kungälv,northern,57.871,11.9805,17.78,61,100,7
+Swan Hill,southern,-35.3378,143.5544,69.28,50,0,6.53
+Key Largo,northern,25.0865,-80.4473,78.33,83,14,8.59
+Ialibu,southern,-6.2821,143.9935,55.53,95,100,2.01
+College,northern,64.8569,-147.8028,-39.84,79,20,3.44
+Yenotayevka,northern,47.2456,47.0281,33.01,99,100,23.71
+Mont-Joli,northern,48.5839,-68.1921,12.2,52,20,5.75
